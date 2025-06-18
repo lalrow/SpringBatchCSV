@@ -1,4 +1,4 @@
-package io.lalitrow.batch;
+package io.lalitrow;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobParameters;
